@@ -1,144 +1,122 @@
-<!-- HEADER BANNER -->
+<!-- ═══════════════ HERO ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:1e3a8a,100:2563eb&height=230&section=header&text=ARAF&fontSize=80&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Full-Stack%20Developer%20%C2%B7%20SaaS%20Builder%20%C2%B7%20Forex%20Trader&descSize=18&descAlignY=65&descColor=93c5fd" alt="Araf" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:1e3a8a,100:2563eb&height=320&section=header&text=ARAF&fontSize=120&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%C2%B7%20SaaS%20Builder%20%C2%B7%20Forex%20Trader&descSize=22&descAlignY=64&descColor=93c5fd" alt="Araf" width="100%"/>
 
 <a href="https://github.com/ArafCodes">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&height=50&lines=I+build+modern+web+apps+%26+SaaS+products;I+turn+ideas+into+scalable+solutions;AI+%C2%B7+Automation+%C2%B7+Trading+Tech;Build.+Learn.+Improve.+Repeat." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=32&duration=2800&pause=1200&color=60A5FA&center=true&vCenter=true&width=940&height=70&lines=I+build+modern+web+apps+%26+SaaS+products;I+turn+ideas+into+scalable+solutions;AI-powered+apps+that+solve+real+problems;Automation+that+saves+hours+every+week;Trading+technology+for+smarter+decisions;Currently+building+my+own+digital+products;Build.+Learn.+Improve.+Repeat." alt="Typing animation"/>
 </a>
 
 <br/><br/>
 
-<a href="https://instagram.com/araf_frx"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://x.com/araffxbd"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-<a href="https://tiktok.com/@tradwitharaf"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
+<a href="https://instagram.com/araf_frx"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>&nbsp;
+<a href="https://x.com/araffxbd"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>&nbsp;
+<a href="https://tiktok.com/@tradwitharaf"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>&nbsp;
 <a href="https://reddit.com/user/FunctionAccording992"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/></a>
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=ArafCodes&label=Profile%20views&color=2563eb&style=flat-square" alt="Profile views"/>
 
-</div>
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:3b82f6,100:0f172a&height=2&section=header" width="70%" alt=""/>
+<br/><br/>
+
+<!-- ═══════════════ ABOUT ═══════════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=800&size=30&duration=1800&pause=100000&color=3B82F6&center=true&vCenter=true&width=600&height=56&repeat=false&lines=About+Me" alt="About Me"/>
 
 <br/>
-
-<!-- ABOUT -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=2000&pause=100000&repeat=false&color=3B82F6&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+About+Me" alt="About Me"/>
-</div>
-
-<p align="center">
-I'm a full-stack web developer who loves building things people actually use.<br/>
-I work on modern web apps, SaaS platforms and AI-powered products,<br/>
-and I help businesses turn rough ideas into clean, scalable software.
-</p>
-
-<p align="center">
-Right now I'm focused on <b>building and launching my own digital products</b>.<br/>
-Outside of code, I trade Forex, explore new tech, and share what I learn.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=500&size=17&duration=2200&pause=100000&color=7D8CA3&center=true&vCenter=true&width=760&height=170&repeat=false&multiline=true&lines=I%27m+a+full-stack+web+developer+who+loves+building+things+people+actually+use.;I+work+on+modern+web+apps%2C+SaaS+platforms+and+AI-powered+products%2C;and+I+help+businesses+turn+rough+ideas+into+clean%2C+scalable+software.;Right+now+I%27m+focused+on+building+and+launching+my+own+digital+products.;Outside+of+code%2C+I+trade+Forex%2C+explore+new+tech%2C+and+share+what+I+learn." alt="About me"/>
 
 <br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:3b82f6,100:0f172a&height=2&section=header" width="70%" alt=""/>
+<br/><br/>
 
-<!-- WHAT I DO -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=2000&pause=100000&repeat=false&color=3B82F6&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%9A%80+What+I+Do" alt="What I Do"/>
-</div>
+<!-- ═══════════════ WHAT I DO ═══════════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=800&size=30&duration=1800&pause=100000&color=3B82F6&center=true&vCenter=true&width=600&height=56&repeat=false&lines=What+I+Do" alt="What I Do"/>
 
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="200"><h3>🌐</h3><b>Full-Stack<br/>Development</b><br/><sub>React · Next.js</sub></td>
-    <td align="center" width="200"><h3>📦</h3><b>SaaS &<br/>Product Building</b><br/><sub>Idea → MVP → Launch</sub></td>
-    <td align="center" width="200"><h3>🤖</h3><b>AI-Powered<br/>Apps</b><br/><sub>Smarter products</sub></td>
+    <td align="center" width="250"><br/><img src="https://api.iconify.design/lucide/layout-dashboard.svg?color=%233b82f6" height="44" alt=""/><br/><img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=16&duration=1500&pause=100000&color=3B82F6&center=true&vCenter=true&width=230&height=34&repeat=false&lines=Full-Stack+Development" alt="Full-Stack Development"/><br/><img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=500&size=13&duration=1500&pause=100000&color=7D8CA3&center=true&vCenter=true&width=230&height=26&repeat=false&lines=React+%C2%B7+Next.js" alt="React · Next.js"/><br/><br/></td>
+    <td align="center" width="250"><br/><img src="https://api.iconify.design/lucide/package.svg?color=%233b82f6" height="44" alt=""/><br/><img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=16&duration=1500&pause=100000&color=3B82F6&center=true&vCenter=true&width=230&height=34&repeat=false&lines=SaaS+%26+Products" alt="SaaS & Products"/><br/><img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=500&size=13&duration=1500&pause=100000&color=7D8CA3&center=true&vCenter=true&width=230&height=26&repeat=false&lines=Idea+%E2%86%92+MVP+%E2%86%92+Launch" alt="Idea → MVP → Launch"/><br/><br/></td>
+    <td align="center" width="250"><br/><img src="https://api.iconify.design/lucide/bot.svg?color=%233b82f6" height="44" alt=""/><br/><img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=16&duration=1500&pause=100000&color=3B82F6&center=true&vCenter=true&width=230&height=34&repeat=false&lines=AI-Powered+Apps" alt="AI-Powered Apps"/><br/><img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=500&size=13&duration=1500&pause=100000&color=7D8CA3&center=true&vCenter=true&width=230&height=26&repeat=false&lines=Smarter+products" alt="Smarter products"/><br/><br/></td>
   </tr>
   <tr>
-    <td align="center" width="200"><h3>⚙️</h3><b>Business<br/>Automation</b><br/><sub>Less manual work</sub></td>
-    <td align="center" width="200"><h3>📈</h3><b>Trading<br/>Technology</b><br/><sub>Tools for traders</sub></td>
-    <td align="center" width="200"><h3>🎨</h3><b>Clean<br/>UI / UX</b><br/><sub>Modern & fast</sub></td>
+    <td align="center" width="250"><br/><img src="https://api.iconify.design/lucide/workflow.svg?color=%233b82f6" height="44" alt=""/><br/><img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=16&duration=1500&pause=100000&color=3B82F6&center=true&vCenter=true&width=230&height=34&repeat=false&lines=Business+Automation" alt="Business Automation"/><br/><img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=500&size=13&duration=1500&pause=100000&color=7D8CA3&center=true&vCenter=true&width=230&height=26&repeat=false&lines=Less+manual+work" alt="Less manual work"/><br/><br/></td>
+    <td align="center" width="250"><br/><img src="https://api.iconify.design/lucide/candlestick-chart.svg?color=%233b82f6" height="44" alt=""/><br/><img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=16&duration=1500&pause=100000&color=3B82F6&center=true&vCenter=true&width=230&height=34&repeat=false&lines=Trading+Technology" alt="Trading Technology"/><br/><img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=500&size=13&duration=1500&pause=100000&color=7D8CA3&center=true&vCenter=true&width=230&height=26&repeat=false&lines=Tools+for+traders" alt="Tools for traders"/><br/><br/></td>
+    <td align="center" width="250"><br/><img src="https://api.iconify.design/lucide/palette.svg?color=%233b82f6" height="44" alt=""/><br/><img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=16&duration=1500&pause=100000&color=3B82F6&center=true&vCenter=true&width=230&height=34&repeat=false&lines=Clean+UI+%2F+UX" alt="Clean UI / UX"/><br/><img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=500&size=13&duration=1500&pause=100000&color=7D8CA3&center=true&vCenter=true&width=230&height=26&repeat=false&lines=Modern+%26+fast" alt="Modern & fast"/><br/><br/></td>
   </tr>
 </table>
 
 <br/>
-
-<!-- TECH STACK -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=2000&pause=100000&repeat=false&color=3B82F6&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack" alt="Tech Stack"/>
-
-<br/>
-
-<sub><b>FRONTEND</b></sub><br/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:3b82f6,100:0f172a&height=2&section=header" width="70%" alt=""/>
 <br/><br/>
 
-<sub><b>BACKEND & DATABASE</b></sub><br/>
-<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<!-- ═══════════════ TECH STACK ═══════════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=800&size=30&duration=1800&pause=100000&color=3B82F6&center=true&vCenter=true&width=600&height=56&repeat=false&lines=Tech+Stack" alt="Tech Stack"/>
 
+<table>
+  <tr>
+    <td align="center" width="190"><img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=16&duration=1500&pause=100000&color=3B82F6&center=true&vCenter=true&width=170&height=40&repeat=false&lines=Frontend" alt="Frontend"/></td>
+    <td align="center" width="560"><img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,css,wordpress&theme=dark&perline=6" alt="skills"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=16&duration=1500&pause=100000&color=3B82F6&center=true&vCenter=true&width=170&height=40&repeat=false&lines=Backend+%26+Database" alt="Backend & Database"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=firebase,supabase,mongodb,python,php&theme=dark&perline=5" alt="skills"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=16&duration=1500&pause=100000&color=3B82F6&center=true&vCenter=true&width=170&height=40&repeat=false&lines=Cloud+%26+Deploy" alt="Cloud & Deploy"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vercel,gcp,aws&theme=dark&perline=3" alt="skills"/></td>
+  </tr>
+</table>
+
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:3b82f6,100:0f172a&height=2&section=header" width="70%" alt=""/>
 <br/><br/>
 
-<sub><b>CLOUD & DEPLOYMENT</b></sub><br/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</div>
+<!-- ═══════════════ GITHUB STATS ═══════════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=800&size=30&duration=1800&pause=100000&color=3B82F6&center=true&vCenter=true&width=600&height=56&repeat=false&lines=GitHub+Stats" alt="GitHub Stats"/>
+
+<table>
+  <tr>
+    <td align="center" width="370"><img height="165" src="https://github-readme-stats.shion.dev/api?username=ArafCodes&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" alt="GitHub stats"/></td>
+    <td align="center" width="370"><img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ArafCodes&theme=tokyonight&hide_border=true&layout=compact" alt="Top languages"/></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><img src="https://streak-stats.demolab.com/?user=ArafCodes&theme=tokyonight&hide_border=true" alt="GitHub streak"/></td>
+  </tr>
+</table>
 
 <br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:3b82f6,100:0f172a&height=2&section=header" width="70%" alt=""/>
+<br/><br/>
 
-<!-- STATS -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=2000&pause=100000&repeat=false&color=3B82F6&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%93%8A+GitHub+Stats" alt="GitHub Stats"/>
-
-<br/>
-
-<img height="170" src="https://github-readme-stats.shion.dev/api?username=ArafCodes&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ArafCodes&theme=tokyonight&hide_border=true&layout=compact" alt="Top languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=ArafCodes&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</div>
-
-<br/>
-
-<!-- PROJECTS -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=2000&pause=100000&repeat=false&color=3B82F6&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%93%8C+Featured+Projects" alt="Featured Projects"/>
-</div>
-
-<div align="center">
+<!-- ═══════════════ PROJECTS ═══════════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=800&size=30&duration=1800&pause=100000&color=3B82F6&center=true&vCenter=true&width=600&height=56&repeat=false&lines=Featured+Projects" alt="Featured Projects"/>
 
 | Project | What it does | Stack |
 |:---:|:---:|:---:|
 | **[Project Name](https://github.com/ArafCodes)** | One line about it | Next.js · Supabase |
 | **[Project Name](https://github.com/ArafCodes)** | One line about it | React · Firebase |
 
-</div>
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:3b82f6,100:0f172a&height=2&section=header" width="70%" alt=""/>
+<br/><br/>
+
+<!-- ═══════════════ CONTACT ═══════════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=800&size=30&duration=1800&pause=100000&color=3B82F6&center=true&vCenter=true&width=600&height=56&repeat=false&lines=Let%27s+Work+Together" alt="Let's Work Together"/>
 
 <br/>
+<img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=500&size=17&duration=2200&pause=100000&color=7D8CA3&center=true&vCenter=true&width=760&height=80&repeat=false&multiline=true&lines=Have+an+idea%2C+a+product+to+launch%2C+or+a+process+to+automate%3F;I%27d+love+to+hear+about+it.+Let%27s+build+something+great+together." alt="Contact"/>
 
-<!-- CONTACT -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=2000&pause=100000&repeat=false&color=3B82F6&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%A4%9D+Let's+Work+Together" alt="Let's Work Together"/>
-</div>
+<br/><br/>
 
-<p align="center">
-Have an idea, a product to launch, or a process to automate?<br/>
-I'd love to hear about it. Message me on
-<a href="https://instagram.com/araf_frx">Instagram</a> or <a href="https://x.com/araffxbd">X</a>.
-</p>
+<a href="https://instagram.com/araf_frx"><img src="https://img.shields.io/badge/Message_me_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>&nbsp;
+<a href="https://x.com/araffxbd"><img src="https://img.shields.io/badge/DM_me_on_X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 
-<div align="center">
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&duration=3000&pause=100000&repeat=false&color=94A3B8&center=true&vCenter=true&width=500&height=40&lines=Build.+Learn.+Improve.+Repeat.+%F0%9F%94%81" alt="Tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=18&duration=2500&pause=100000&color=7D8CA3&center=true&vCenter=true&width=600&height=40&repeat=false&lines=Build.+Learn.+Improve.+Repeat." alt="Tagline"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0f172a&height=110&section=footer" alt="Footer" width="100%"/>
 
